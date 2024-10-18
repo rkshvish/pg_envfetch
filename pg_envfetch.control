@@ -1,0 +1,6 @@
+# pg_envfetch.control
+# This file describes the pg_envfetch extension
+comment = 'Access environment variables from PostgreSQL'
+default_version = '1.0'
+module_pathname = '$libdir/pg_envfetch'
+relocatable = true
